@@ -16,3 +16,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 These insights empower stakeholders with key business metrics, enabling strategic decision making.
 
+![Untitled Diagram-Page-1 drawio](https://github.com/user-attachments/assets/5fcad005-c3de-4d7b-a089-db6cad24cc4c)
+![Untitled Diagram-Page-2 drawio](https://github.com/user-attachments/assets/9b8ae027-8996-4831-bc95-b217ec8c7e97)
+![Untitled Diagram-Page-3 drawio](https://github.com/user-attachments/assets/bc2d09d0-13f1-47e6-8597-a2ce98214b3f)
+![Untitled Diagram-Page-4 drawio](https://github.com/user-attachments/assets/adc58e6e-8f89-4de0-9505-3c085895f785)
